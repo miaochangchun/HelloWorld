@@ -1,0 +1,1194 @@
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [HCI_SYS][HciAuth::Init] ______ StartLog Success ______
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [HCI_SYS][HciAuth::Init] ParseConfig Success
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CUserInfo::Load]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][hci_get_udid]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][get_win_mac_address]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][get_win_mac_address]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][hci_get_udid]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CUserInfo::ReBuild] update udid type:0 udid:54ee759e764d0000000000000000
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CUserInfo::WriteUserInfo]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CUserInfo::WriteUserInfo]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CUserInfo::Load]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE) failed and errno=2
+2016-11-9 22:7:30 java.exe(13244:18008) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCount] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE
+
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH) failed and errno=2
+2016-11-9 22:7:30 java.exe(13244:18008) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCountBatch] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH
+
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [HCI_SYS][HciAuth::Init] max_session_count:2
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_AUTH) failed and errno=2
+2016-11-9 22:7:30 java.exe(13244:18008) WARNING [HCI_SYS][CBasicAuth::LoadFromFile] failed to open basic_auth file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_AUTH
+
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_AUTH_FOREVER) failed and errno=2
+2016-11-9 22:7:30 java.exe(13244:18008) WARNING [HCI_SYS][CBasicAuth::LoadFromFile] failed to open basic_auth file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_AUTH_FOREVER
+
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_BASIC_AUTH) failed and errno=2
+2016-11-9 22:7:30 java.exe(13244:18008) WARNING [HCI_SYS][CBasicAuth::LoadFromFile] failed to open basic_auth file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_BASIC_AUTH
+
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_APP_FILE) failed and errno=2
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19e778d8
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Enter
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/USER_CUSTOM_HIS) failed and errno=2
+2016-11-9 22:7:30 java.exe(13244:12192) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Enter
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [HCI_SYS][HciAuth::CheckAuth]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Leave
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19fef930
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [HCI_SYS][CheckAuthAction::DoProcess]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) INFO    [HCI_SYS][HciAuth::Init] SUCCESS
+2016-11-9 22:7:30 java.exe(13244:18812) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Enter
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [HCI_SYS][CheckAuthAction::CheckAuth]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::Init]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][hci_init]Leave
+2016-11-9 22:7:30 java.exe(13244:19380) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x1a3df7f0
+2016-11-9 22:7:30 java.exe(13244:19380) DEBUG   [HCI_SYS][HciAuth::TxGetIdThreadFunc] fail to get txid sync url.
+2016-11-9 22:7:30 java.exe(13244:19380) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x1a3df7f0
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a3e0080
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] http url:http://test.api.hcicloud.com:8888/CheckAuth
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] header:x-app-key:c85d54f1
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] header:x-udid:0:54ee759e764d0000000000000000
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] header:x-sdk-version:5.1.0.24472
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] header:x-tid:
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] header:x-eid:
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] header:x-userid:
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] header:x-call-type:0
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] header:x-request-date:2016-11-9 22:7:30
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] header:x-session-key:7e72731cb063fe35a93565e6c0df9f55
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x19ee6ea0
+2016-11-9 22:7:30 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x19ee73b0
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) ERROR   [HCI_SYS][HciAuth::GetAuthExpireTime] FAILED(111:SYS AuthFile Invalid)
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Leave
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][hci_check_auth]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::CheckAuth]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x2cbe520
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CheckAuthAction::DoProcess]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [HCI_SYS][CheckAuthAction::CheckAuth]Enter
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a3fb410
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] http url:http://test.api.hcicloud.com:8888/CheckAuth
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-app-key:c85d54f1
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-udid:0:54ee759e764d0000000000000000
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-sdk-version:5.1.0.24472
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-tid:
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-eid:
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-userid:
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-call-type:0
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-request-date:2016-11-9 22:7:30
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-session-key:7e72731cb063fe35a93565e6c0df9f55
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x19ee7290
+2016-11-9 22:7:30 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x1a4040c0
+2016-11-9 22:7:31 java.exe(13244:14660) INFO    [jtcommon][CurlHttp::HttpHeaderCallBack] time_used: 1043
+
+2016-11-9 22:7:31 java.exe(13244:18008) INFO    [jtcommon][CurlHttp::HttpHeaderCallBack] time_used: 1090
+
+2016-11-9 22:7:31 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x1a4040c0
+2016-11-9 22:7:31 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a3fb410
+2016-11-9 22:7:31 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x19ee7290
+2016-11-9 22:7:31 java.exe(13244:18008) DEBUG   [HCI_SYS][CheckAuthAction::CheckAuth] http response xml[<?xml version="1.0"?>
+<response_info><res_code>0</res_code><res_message>Auth Success</res_message><tx_server_address_type>production</tx_server_address_type><tx_txd>0</tx_txd><tx_eid>0</tx_eid><tx_need_push>2</tx_need_push><auth_len>91936</auth_len></response_info>
+s …Øûî¶G["O‹©i≤YçfM”Û´¢(î+=±®E/1¬ø˚Sn1'ñÿO’÷tˇ¡¡ßZ\vh√S◊<[\Œ€z©|7„¬]©∞ÛU…7)G’L˜;Ωá®ò2NÒﬁ®Ò*	õ¡d$∏ﬁhUÄ†™R—ùo iˆ]äãƒx)á¬GZí>/J«%¿Mû(á∑€‘≠xQ’‰S{ﬁ§O[|—¯Oâ®uı)‰im¥’2È«, s”ÿ8∑N78Æ˜Ê!D}d”hUàÒ)oÅj|8ÉC]§ ÎØ‹sç)5ÏˇKr|ln∂Ó8˛è:aã»q}I£ÉoÃ`P≈∞Ål4]
+2016-11-9 22:7:31 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x19ee73b0
+2016-11-9 22:7:31 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a3e0080
+2016-11-9 22:7:31 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x19ee6ea0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][CUserInfo::Storage]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][CUserInfo::WriteUserInfo]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][CUserInfo::WriteUserInfo]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][CUserInfo::Storage]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::UpdateCloudAuth]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::UpdateCloudAuth]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][CheckAuthAction::CheckAuth]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][CheckAuthAction::DoProcess]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) INFO    [HCI_SYS][HciAuth::CheckAuth] SUCCESS
+2016-11-9 22:7:32 java.exe(13244:14660) DEBUG   [HCI_SYS][CheckAuthAction::CheckAuth] http response xml[<?xml version="1.0"?>
+<response_info><res_code>0</res_code><res_message>Auth Success</res_message><tx_server_address_type>production</tx_server_address_type><tx_txd>0</tx_txd><tx_eid>0</tx_eid><tx_need_push>2</tx_need_push><auth_len>91936</auth_len></response_info>
+s …Øûî¶G["O‹©i≤YçfM”Û´¢(î+=±®E/1¬ø˚Sn1'ñÿO’÷tˇ¡¡ßZ\vh√S◊<[\Œ€z©|7„¬]©∞ÛU…7)G’L˜;Ωá®ò2NÒﬁ®Ò*	õ¡d$∏ﬁhUÄ†™R—ùo iˆ]äãƒx)á¬GZí>/J«%¿Mû(á∑€‘≠xQ’‰S{ﬁ§O[|—¯Oâ®uı)‰im¥’2È«, s”ÿ8∑N78Æ˜Ê!D}d”hUàÒ)oÅj|8ÉC]§ ÎØ‹sç)5ÏˇKr|ln∂Ó8˛è:aã»q}I£ÉoÃ`P≈∞Ål4]
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x2cbe520
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::CheckAuth]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][hci_check_auth]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) WARNING [PlatformUtil] jtopus library not exist
+2016-11-9 22:7:32 java.exe(13244:18008) WARNING [PlatformUtil] jtspeex library not exist
+2016-11-9 22:7:32 java.exe(13244:18008) WARNING [PlatformUtil] hci_tts_cloud_synth library not exist
+2016-11-9 22:7:32 java.exe(13244:18008) WARNING [PlatformUtil] hci_tts_local_synth library not exist
+2016-11-9 22:7:32 java.exe(13244:18008) WARNING [PlatformUtil] hci_tts_local_n4_synth library not exist
+2016-11-9 22:7:32 java.exe(13244:18008) WARNING [PlatformUtil] hci_tts_local_n6_synth library not exist
+2016-11-9 22:7:32 java.exe(13244:18008) WARNING [PlatformUtil] hci_tts_local_n6-v5_synth library not exist
+2016-11-9 22:7:32 java.exe(13244:18008) WARNING [PlatformUtil] hci_tts_local_v6_synth library not exist
+2016-11-9 22:7:32 java.exe(13244:18008) WARNING [PlatformUtil] hci_tts_local_v6-v5_synth library not exist
+2016-11-9 22:7:32 java.exe(13244:18008) WARNING [PlatformUtil] hci_tts_local_synth_sing library not exist
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][hci_tts_init]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsSdk::Init]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][HCI_GetMaxSessionCount] max session count:2
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][SdkInterface::ApplyServiceUrl]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x2cbd9a0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a4141c0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] http url:http://test.api.hcicloud.com:8888/ApplyServiceUrl
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-task-config:
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-app-key:c85d54f1
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-udid:0:54ee759e764d0000000000000000
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-sdk-version:5.1.0.24472
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-tid:0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-eid:0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-userid:
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-call-type:0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-request-date:2016-11-9 22:7:32
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-session-key:85e74b1765041c88a334aa2ea6c30cc6
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x1a41ec50
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x1a4225c0
+2016-11-9 22:7:32 java.exe(13244:18008) INFO    [jtcommon][CurlHttp::HttpHeaderCallBack] time_used: 1
+
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x1a4225c0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a4141c0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x1a41ec50
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CommitRequestProcessor::DoProcess] Post 's http Parse :(<?xml version="1.0"?>
+<response_info><res_code>0</res_code><res_message>success</res_message><abilities><ability><capkey>afr.cloud</capkey><service_url>http://test.api.hcicloud.com:8880/afr</service_url></ability><ability><capkey>afr.cloud.recog</capkey><service_url>http://test.api.hcicloud.com:8880/afr</service_url></ability><ability><capkey>asr.cloud.dialog</capkey><service_url>http://test.api.hcicloud.com:8880/asr</service_url></ability><ability><capkey>asr.cloud.freetalk</capkey><service_url>http://test.api.hcicloud.com:8880/asr</service_url></ability><ability><capkey>asr.cloud.freetalk.english</capkey><service_url>http://test.api.hcicloud.com:8880/asr</service_url></ability><ability><capkey>asr.cloud.freetalk.music</capkey><service_url>http://test.api.hcicloud.com:8880/asr</service_url></ability><ability><capkey>asr.cloud.freetalk.poi</capkey><service_url>http://test2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::ApplyServiceUrlFunc] UpdateAbilityMapThreadFunc return(0).
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x2cbd9a0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][SdkInterface::ApplyServiceUrl]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][IDllInterface::Load]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsDllInterface::Init]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][HciTtsInit]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][HciTtsInit]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsDllInterface::Init]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][IDllInterface::Load]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) INFO    [jtcommon][TtsSdk::Init] SUCCESS
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsSdk::Init]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][hci_tts_init]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][hci_tts_session_start]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][SdkInterface::ApplyServiceUrl]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][SdkInterface::ApplyServiceUrl]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsSession::Start]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][HciTtsStartSession]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x1a880de8
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][HciTtsStartSession]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsSession::Start]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) INFO    [jtcommon][TtsSdk::StartSession] SUCCESS
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][hci_tts_session_start]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][hci_tts_synth]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsSdk::Synth]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsSession::Synth]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][HciTtsSynth]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][TtsCloudEngine::SynthesizeText]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][TtsSynthResponse::TtsSynthResponse]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][TtsSynthResponse::TtsSynthResponse]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a4141c0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] http url:http://test.api.hcicloud.com:8880/tts/synthtextex
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-task-config:audioformat=pcm16k16bit,capkey=tts.cloud.wangjing,digitmode=auto_number,enclevel=7,encode=opus,engmode=auto,pitch=5,puncmode=off,requesturl=http://test.api.hcicloud.com:8880/tts,speed=5,tagmode=none,volume=5
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-app-key:c85d54f1
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-udid:0:54ee759e764d0000000000000000
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-sdk-version:5.1.0.24472
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-tid:0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-eid:0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-userid:
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-call-type:0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-request-date:2016-11-9 22:7:32
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] header:x-session-key:85e74b1765041c88a334aa2ea6c30cc6
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x1a41ea40
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x19eeee20
+2016-11-9 22:7:32 java.exe(13244:18008) INFO    [jtcommon][CurlHttp::HttpHeaderCallBack] time_used: 339
+
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x19eeee20
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a4141c0
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x1a41ea40
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CommitRequestProcessor::DoProcess] Post 's http Parse :(<?xml version="1.0" encoding="UTF-8"?><ResponseInfo><ResCode>Success</ResCode><ResMessage>Success</ResMessage><ErrorNo>0</ErrorNo><Result_Token>1_174_10_25053_20161109220728_10</Result_Token><Result_token>1_174_10_25053_20161109220728_10</Result_token><SynthTextPos>5</SynthTextPos><Data_Len>6848</Data_Len></ResponseInfo>JDSR)
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][TtsSynthResponse::InitFromResponse]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) INFO    [hci_tts_cloud][TtsSynthResponse::InitFromResponse] synth voice len:6848
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][TtsSynthResponse::InitFromResponse]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) ERROR   [jtcommon][OsAdapter::OS_LoadLibrary] LoadLibrary failed:126
+2016-11-9 22:7:32 java.exe(13244:18008) ERROR   [jtcommon][AudioShareodecer::can_decode] load library jtopus.dll failed
+2016-11-9 22:7:32 java.exe(13244:18008) ERROR   [hci_tts_cloud][TtsCloudEngine::SynthesizeText] jt_decode_voice return 21
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][TtsSynthResponse::~TtsSynthResponse]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][TtsSynthResponse::~TtsSynthResponse]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][TtsCloudEngine::SynthesizeText]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][HciTtsSynth]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsSession::Synth]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) ERROR   [jtcommon][TtsSdk::Synth] FAILED(21:Load Codec DLL Failed)
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsSdk::Synth]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][hci_tts_synth]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][hci_tts_session_stop]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsSession::Stop]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][HciTtsStopSession]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x1a880de8
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][HciTtsStopSession]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][TtsSession::Stop]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) INFO    [jtcommon][TtsSdk::StopSession] SUCCESS
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][hci_tts_session_stop]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][hci_tts_release]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][IDllInterface::UnLoad]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][HciTtsRelease]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts_cloud][HciTtsRelease]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][IDllInterface::UnLoad]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) INFO    [jtcommon][TtsSdk::Release] SUCCESS
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [hci_tts][hci_tts_release]Leave
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][hci_release]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [HCI_SYS][HciAuth::Release]Enter
+2016-11-9 22:7:32 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19e7b5e0
+2016-11-9 22:7:32 java.exe(13244:12192) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Leave
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][CUserInfo::Storage]Enter
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][CUserInfo::WriteUserInfo]Enter
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][CUserInfo::WriteUserInfo]Leave
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][CUserInfo::Storage]Leave
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][HciAuth::UpdateCloudAuth]Enter
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][HciAuth::UpdateCloudAuth]Leave
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][CheckAuthAction::CheckAuth]Leave
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][CheckAuthAction::DoProcess]Leave
+2016-11-9 22:7:33 java.exe(13244:14660) INFO    [HCI_SYS][HciAuth::CheckAuth] SUCCESS
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x19fef930
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][HciAuth::CheckAuth]Leave
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][CUserInfo::IsNeedRegister] FALSE
+2016-11-9 22:7:33 java.exe(13244:14660) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Leave
+2016-11-9 22:7:33 java.exe(13244:18812) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc] UploadDataInterFace leave.
+2016-11-9 22:7:33 java.exe(13244:18812) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Leave
+2016-11-9 22:7:33 java.exe(13244:18008) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x19e778d8
+2016-11-9 22:7:33 java.exe(13244:18008) INFO    [HCI_SYS][HciAuth::StopLog] ______ StopLog ______
+2016-11-9 22:11:3 java.exe(20404:17156) INFO    [HCI_SYS][HciAuth::Init] ______ StartLog Success ______
+2016-11-9 22:11:3 java.exe(20404:17156) INFO    [HCI_SYS][HciAuth::Init] ParseConfig Success
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][CUserInfo::Load]Enter
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Enter
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Enter
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo] get udid from userinfo type:0 udid:54ee759e764d0000000000000000
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][hci_get_udid_by_type]Enter
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][get_win_mac_address]Enter
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][get_win_mac_address]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][hci_get_udid_by_type]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][CUserInfo::Load]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Enter
+2016-11-9 22:11:3 java.exe(20404:17156) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE) failed and errno=2
+2016-11-9 22:11:3 java.exe(20404:17156) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCount] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE
+
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Enter
+2016-11-9 22:11:3 java.exe(20404:17156) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH) failed and errno=2
+2016-11-9 22:11:3 java.exe(20404:17156) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCountBatch] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH
+
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) INFO    [HCI_SYS][HciAuth::Init] max_session_count:2
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Enter
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_APP_FILE) failed and errno=2
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19d07578
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Enter
+2016-11-9 22:11:3 java.exe(20404:17156) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/USER_CUSTOM_HIS) failed and errno=2
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) INFO    [HCI_SYS][HciAuth::Init] SUCCESS
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][HciAuth::Init]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][hci_init]Leave
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Enter
+2016-11-9 22:11:3 java.exe(20404:17156) INFO    [HCI_SYS][HciAuth::GetAuthExpireTime] SUCCESS
+2016-11-9 22:11:3 java.exe(20404:17156) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Leave
+2016-11-9 22:11:3 java.exe(20404:11560) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Enter
+2016-11-9 22:11:3 java.exe(20404:11560) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Enter
+2016-11-9 22:11:3 java.exe(20404:11560) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Leave
+2016-11-9 22:11:3 java.exe(20404:11560) DEBUG   [HCI_SYS][CUserInfo::IsNeedRegister] FALSE
+2016-11-9 22:11:3 java.exe(20404: 7188) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Enter
+2016-11-9 22:11:3 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19e71eb0
+2016-11-9 22:11:3 java.exe(20404: 7188) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_TX_SETTING) failed and errno=2
+2016-11-9 22:11:3 java.exe(20404: 7188) ERROR   [HCI_SYS][TxSetting::LoadFromFile] HCI_TX_SETTING IsValid false
+2016-11-9 22:11:3 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a420080
+2016-11-9 22:11:3 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::Post] http url:http://conf.open.tianxing.com:13000
+2016-11-9 22:11:3 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::Post] header:appKey:c85d54f1
+2016-11-9 22:11:3 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::Post] header:nonceStr:2016-11-9 22:11:3
+2016-11-9 22:11:3 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::Post] header:sessionKey:47e49b8c825b1f7b56d03ad2ad27af4c
+2016-11-9 22:11:3 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x19d143d0
+2016-11-9 22:11:3 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x19d14470
+2016-11-9 22:11:3 java.exe(20404: 7616) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Enter
+2016-11-9 22:11:3 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x1a41f830
+2016-11-9 22:11:3 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a43bf40
+2016-11-9 22:11:3 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::Post] http url:http://conf.open.tianxing.com:10000
+2016-11-9 22:11:3 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::Post] header:appKey:c85d54f1
+2016-11-9 22:11:3 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::Post] header:nonceStr:2016-11-9 22:11:3
+2016-11-9 22:11:3 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::Post] header:sessionKey:47e49b8c825b1f7b56d03ad2ad27af4c
+2016-11-9 22:11:3 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x1a43aea0
+2016-11-9 22:11:3 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x1a444b30
+2016-11-9 22:11:4 java.exe(20404:17156) WARNING [PlatformUtil] jtopus library not exist
+2016-11-9 22:11:4 java.exe(20404:17156) WARNING [PlatformUtil] jtspeex library not exist
+2016-11-9 22:11:4 java.exe(20404:17156) WARNING [PlatformUtil] hci_tts_cloud_synth library not exist
+2016-11-9 22:11:4 java.exe(20404:17156) WARNING [PlatformUtil] hci_tts_local_synth library not exist
+2016-11-9 22:11:4 java.exe(20404:17156) WARNING [PlatformUtil] hci_tts_local_n4_synth library not exist
+2016-11-9 22:11:4 java.exe(20404:17156) WARNING [PlatformUtil] hci_tts_local_n6_synth library not exist
+2016-11-9 22:11:4 java.exe(20404:17156) WARNING [PlatformUtil] hci_tts_local_n6-v5_synth library not exist
+2016-11-9 22:11:4 java.exe(20404:17156) WARNING [PlatformUtil] hci_tts_local_v6_synth library not exist
+2016-11-9 22:11:4 java.exe(20404:17156) WARNING [PlatformUtil] hci_tts_local_v6-v5_synth library not exist
+2016-11-9 22:11:4 java.exe(20404:17156) WARNING [PlatformUtil] hci_tts_local_synth_sing library not exist
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][hci_tts_init]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsSdk::Init]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [HCI_SYS][HCI_GetMaxSessionCount] max session count:2
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][SdkInterface::ApplyServiceUrl]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x302ddc0
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a45bc80
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] http url:http://test.api.hcicloud.com:8888/ApplyServiceUrl
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-task-config:
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-app-key:c85d54f1
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-udid:0:54ee759e764d0000000000000000
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-sdk-version:5.1.0.24472
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-tid:0
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-eid:0
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-userid:
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-call-type:0
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-request-date:2016-11-9 22:11:4
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-session-key:92b32c45ab240e0a40a0fe76b0e4b109
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x1a45b8c0
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x1a43ba20
+2016-11-9 22:11:4 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x19d14470
+2016-11-9 22:11:4 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a420080
+2016-11-9 22:11:4 java.exe(20404: 7188) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x19d143d0
+2016-11-9 22:11:4 java.exe(20404: 7188) WARNING [HCI_SYS][TxSetting::LoadFromString] get json(data) failed
+2016-11-9 22:11:4 java.exe(20404: 7188) DEBUG   [HCI_SYS][TxSetting::LoadFromNet] response({"timestamp": 1478700663968, "cmdid": 5041, "apiVersion": "V1.0", "error": {"message": "\u672c\u5e94\u7528\u6ca1\u6709\u8fd9\u6761\u534f\u8bae\u7684\u6388\u6743", "code": 56}})
+2016-11-9 22:11:4 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x1a444b30
+2016-11-9 22:11:4 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a43bf40
+2016-11-9 22:11:4 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x1a43aea0
+2016-11-9 22:11:4 java.exe(20404:19128) DEBUG   [HCI_SYS][CUserInfo::Storage]Enter
+2016-11-9 22:11:4 java.exe(20404:19128) DEBUG   [HCI_SYS][CUserInfo::WriteUserInfo]Enter
+2016-11-9 22:11:4 java.exe(20404:19128) DEBUG   [HCI_SYS][CUserInfo::WriteUserInfo]Leave
+2016-11-9 22:11:4 java.exe(20404:19128) DEBUG   [HCI_SYS][CUserInfo::Storage]Leave
+2016-11-9 22:11:4 java.exe(20404:19128) DEBUG   [HCI_SYS][HciAuth::TxGetIdThreadFunc] get txid = 239188291
+2016-11-9 22:11:4 java.exe(20404:19128) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x1a41f830
+2016-11-9 22:11:4 java.exe(20404:17156) INFO    [jtcommon][CurlHttp::HttpHeaderCallBack] time_used: 14
+
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x1a43ba20
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a45bc80
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x1a45b8c0
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CommitRequestProcessor::DoProcess] Post 's http Parse :(<?xml version="1.0"?>
+<response_info><res_code>0</res_code><res_message>success</res_message><abilities><ability><capkey>afr.cloud</capkey><service_url>http://test.api.hcicloud.com:8880/afr</service_url></ability><ability><capkey>afr.cloud.recog</capkey><service_url>http://test.api.hcicloud.com:8880/afr</service_url></ability><ability><capkey>asr.cloud.dialog</capkey><service_url>http://test.api.hcicloud.com:8880/asr</service_url></ability><ability><capkey>asr.cloud.freetalk</capkey><service_url>http://test.api.hcicloud.com:8880/asr</service_url></ability><ability><capkey>asr.cloud.freetalk.english</capkey><service_url>http://test.api.hcicloud.com:8880/asr</service_url></ability><ability><capkey>asr.cloud.freetalk.music</capkey><service_url>http://test.api.hcicloud.com:8880/asr</service_url></ability><ability><capkey>asr.cloud.freetalk.poi</capkey><service_url>http://test2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [HCI_SYS][HciAuth::ApplyServiceUrlFunc] UpdateAbilityMapThreadFunc return(0).
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x302ddc0
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][SdkInterface::ApplyServiceUrl]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][IDllInterface::Load]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsDllInterface::Init]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][HciTtsInit]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][HciTtsInit]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsDllInterface::Init]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][IDllInterface::Load]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) INFO    [jtcommon][TtsSdk::Init] SUCCESS
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsSdk::Init]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][hci_tts_init]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][hci_tts_session_start]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][SdkInterface::ApplyServiceUrl]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][SdkInterface::ApplyServiceUrl]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsSession::Start]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][HciTtsStartSession]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19cd10b8
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][HciTtsStartSession]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsSession::Start]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) INFO    [jtcommon][TtsSdk::StartSession] SUCCESS
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][hci_tts_session_start]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][hci_tts_synth]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsSdk::Synth]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsSession::Synth]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][HciTtsSynth]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][TtsCloudEngine::SynthesizeText]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][TtsSynthResponse::TtsSynthResponse]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][TtsSynthResponse::TtsSynthResponse]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a420080
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] http url:http://test.api.hcicloud.com:8880/tts/synthtextex
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-task-config:audioformat=pcm16k16bit,capkey=tts.cloud.wangjing,digitmode=auto_number,enclevel=7,encode=none,engmode=auto,pitch=5,puncmode=off,requesturl=http://test.api.hcicloud.com:8880/tts,speed=5,tagmode=none,volume=5
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-app-key:c85d54f1
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-udid:0:54ee759e764d0000000000000000
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-sdk-version:5.1.0.24472
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-tid:239188291
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-eid:0
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-userid:
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-call-type:0
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-request-date:2016-11-9 22:11:4
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] header:x-session-key:92b32c45ab240e0a40a0fe76b0e4b109
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x1a45b780
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x19d1ef00
+2016-11-9 22:11:4 java.exe(20404:17156) INFO    [jtcommon][CurlHttp::HttpHeaderCallBack] time_used: 75
+
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x19d1ef00
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a420080
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x1a45b780
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CommitRequestProcessor::DoProcess] Post 's http Parse :(<?xml version="1.0" encoding="UTF-8"?><ResponseInfo><ResCode>Success</ResCode><ResMessage>Success</ResMessage><ErrorNo>0</ErrorNo><Result_Token>1_174_10_24970_20161109221100_72</Result_Token><Result_token>1_174_10_24970_20161109221100_72</Result_token><SynthTextPos>5</SynthTextPos><Data_Len>71940</Data_Len></ResponseInfo>)
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][TtsSynthResponse::InitFromResponse]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) INFO    [hci_tts_cloud][TtsSynthResponse::InitFromResponse] synth voice len:71940
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][TtsSynthResponse::InitFromResponse]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][TtsCloudEngine::SynthesizeText] Synth Not More
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][TtsSynthResponse::~TtsSynthResponse]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][TtsSynthResponse::~TtsSynthResponse]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][TtsCloudEngine::SynthesizeText]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][HciTtsSynth]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsSession::Synth]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) INFO    [jtcommon][TtsSdk::Synth] SUCCESS
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsSdk::Synth]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][hci_tts_synth]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][hci_tts_session_stop]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsSession::Stop]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][HciTtsStopSession]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x19cd10b8
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][HciTtsStopSession]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][TtsSession::Stop]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) INFO    [jtcommon][TtsSdk::StopSession] SUCCESS
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][hci_tts_session_stop]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][hci_tts_release]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][IDllInterface::UnLoad]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][HciTtsRelease]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts_cloud][HciTtsRelease]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][IDllInterface::UnLoad]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) INFO    [jtcommon][TtsSdk::Release] SUCCESS
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [hci_tts][hci_tts_release]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [HCI_SYS][hci_release]Enter
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [HCI_SYS][HciAuth::Release]Enter
+2016-11-9 22:11:4 java.exe(20404:11560) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Leave
+2016-11-9 22:11:4 java.exe(20404: 7188) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Leave
+2016-11-9 22:11:4 java.exe(20404: 7616) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc] UploadDataInterFace leave.
+2016-11-9 22:11:4 java.exe(20404: 7616) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Leave
+2016-11-9 22:11:4 java.exe(20404:17156) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x19d07578
+2016-11-9 22:11:4 java.exe(20404:17156) INFO    [HCI_SYS][HciAuth::StopLog] ______ StopLog ______
+2016-11-9 22:22:56 java.exe( 9572:19752) INFO    [HCI_SYS][HciAuth::Init] ______ StartLog Success ______
+2016-11-9 22:22:56 java.exe( 9572:19752) INFO    [HCI_SYS][HciAuth::Init] ParseConfig Success
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][CUserInfo::Load]Enter
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Enter
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Enter
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Leave
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo] get udid from userinfo type:0 udid:54ee759e764d0000000000000000
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][hci_get_udid_by_type]Enter
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][get_win_mac_address]Enter
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][get_win_mac_address]Leave
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][hci_get_udid_by_type]Leave
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Leave
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][CUserInfo::Load]Leave
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Enter
+2016-11-9 22:22:56 java.exe( 9572:19752) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE) failed and errno=2
+2016-11-9 22:22:56 java.exe( 9572:19752) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCount] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE
+
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Leave
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Enter
+2016-11-9 22:22:56 java.exe( 9572:19752) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH) failed and errno=2
+2016-11-9 22:22:56 java.exe( 9572:19752) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCountBatch] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH
+
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Leave
+2016-11-9 22:22:56 java.exe( 9572:19752) INFO    [HCI_SYS][HciAuth::Init] max_session_count:2
+2016-11-9 22:22:56 java.exe( 9572:19752) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_APP_FILE) failed and errno=2
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19577578
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/USER_CUSTOM_HIS) failed and errno=2
+2016-11-9 22:22:57 java.exe( 9572:13144) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Leave
+2016-11-9 22:22:57 java.exe( 9572:13144) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Enter
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Enter
+2016-11-9 22:22:57 java.exe( 9572:13144) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) INFO    [HCI_SYS][HciAuth::Init] SUCCESS
+2016-11-9 22:22:57 java.exe( 9572:13144) DEBUG   [HCI_SYS][CUserInfo::IsNeedRegister] FALSE
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x196d1eb0
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [HCI_SYS][HciAuth::Init]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [HCI_SYS][hci_init]Leave
+2016-11-9 22:22:57 java.exe( 9572: 6848) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Enter
+2016-11-9 22:22:57 java.exe( 9572:19072) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_TX_SETTING) failed and errno=2
+2016-11-9 22:22:57 java.exe( 9572:19072) ERROR   [HCI_SYS][TxSetting::LoadFromFile] HCI_TX_SETTING IsValid false
+2016-11-9 22:22:57 java.exe( 9572: 9448) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19c7f680
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x19c80080
+2016-11-9 22:22:57 java.exe( 9572: 9448) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x19c7f680
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::Post] http url:http://conf.open.tianxing.com:13000
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::Post] header:appKey:c85d54f1
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::Post] header:nonceStr:2016-11-9 22:22:57
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::Post] header:sessionKey:7622af6a6b5ddd34917f810bf2cb1cae
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x19166d50
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x19166df0
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) INFO    [HCI_SYS][HciAuth::GetAuthExpireTime] SUCCESS
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Leave
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x19166df0
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x19c80080
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x19166d50
+2016-11-9 22:22:57 java.exe( 9572:19072) WARNING [HCI_SYS][TxSetting::LoadFromString] get json(data) failed
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [HCI_SYS][TxSetting::LoadFromNet] response({"timestamp": 1478701377076, "cmdid": 5041, "apiVersion": "V1.0", "error": {"message": "\u672c\u5e94\u7528\u6ca1\u6709\u8fd9\u6761\u534f\u8bae\u7684\u6388\u6743", "code": 56}})
+2016-11-9 22:22:57 java.exe( 9572:19752) WARNING [PlatformUtil] jtopus library not exist
+2016-11-9 22:22:57 java.exe( 9572:19752) WARNING [PlatformUtil] jtspeex library not exist
+2016-11-9 22:22:57 java.exe( 9572:19752) WARNING [PlatformUtil] hci_tts_cloud_synth library not exist
+2016-11-9 22:22:57 java.exe( 9572:19752) WARNING [PlatformUtil] hci_tts_local_synth library not exist
+2016-11-9 22:22:57 java.exe( 9572:19752) WARNING [PlatformUtil] hci_tts_local_n4_synth library not exist
+2016-11-9 22:22:57 java.exe( 9572:19752) WARNING [PlatformUtil] hci_tts_local_n6_synth library not exist
+2016-11-9 22:22:57 java.exe( 9572:19752) WARNING [PlatformUtil] hci_tts_local_n6-v5_synth library not exist
+2016-11-9 22:22:57 java.exe( 9572:19752) WARNING [PlatformUtil] hci_tts_local_v6_synth library not exist
+2016-11-9 22:22:57 java.exe( 9572:19752) WARNING [PlatformUtil] hci_tts_local_v6-v5_synth library not exist
+2016-11-9 22:22:57 java.exe( 9572:19752) WARNING [PlatformUtil] hci_tts_local_synth_sing library not exist
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][hci_tts_init]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsSdk::Init]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [HCI_SYS][HCI_GetMaxSessionCount] max session count:2
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [jtcommon][IDllInterface::Load]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsDllInterface::Init]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][HciTtsInit]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][HciTtsInit]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsDllInterface::Init]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [jtcommon][IDllInterface::Load]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) INFO    [jtcommon][TtsSdk::Init] SUCCESS
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsSdk::Init]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][hci_tts_init]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][hci_tts_session_start]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsSession::Start]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][HciTtsStartSession]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession] jtTTS_GetExtBufSize(C:\Users\10048\IdeaProjects\HelloWorld\data\CNPackage.dat, C:\Users\10048\IdeaProjects\HelloWorld\data\ENPackage.dat, C:\Users\10048\IdeaProjects\HelloWorld\data\DMPackage.dat, 1991552).
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][HciTtsStartSession]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsSession::Start]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) INFO    [jtcommon][TtsSdk::StartSession] SUCCESS
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][hci_tts_session_start]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][hci_tts_synth]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsSdk::Synth]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsSession::Synth]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][HciTtsSynth]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::SynthesizeText]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamProgressProc] jtExam_ProgressProc iProcBegin(0)iProcLen(5)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(2080)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(0)!
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][TtsLocalEngine::SynthesizeText]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][HciTtsSynth]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsSession::Synth]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) INFO    [jtcommon][TtsSdk::Synth] SUCCESS
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsSdk::Synth]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][hci_tts_synth]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][hci_tts_session_stop]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsSession::Stop]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][HciTtsStopSession]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][HciTtsStopSession]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][TtsSession::Stop]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) INFO    [jtcommon][TtsSdk::StopSession] SUCCESS
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][hci_tts_session_stop]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][hci_tts_release]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [jtcommon][IDllInterface::UnLoad]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][HciTtsRelease]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts_local][HciTtsRelease]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [jtcommon][IDllInterface::UnLoad]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) INFO    [jtcommon][TtsSdk::Release] SUCCESS
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [hci_tts][hci_tts_release]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [HCI_SYS][hci_release]Enter
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [HCI_SYS][HciAuth::Release]Enter
+2016-11-9 22:22:57 java.exe( 9572:19072) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Leave
+2016-11-9 22:22:57 java.exe( 9572:13144) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Leave
+2016-11-9 22:22:57 java.exe( 9572: 6848) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc] UploadDataInterFace leave.
+2016-11-9 22:22:57 java.exe( 9572: 6848) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Leave
+2016-11-9 22:22:57 java.exe( 9572:19752) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x19577578
+2016-11-9 22:22:57 java.exe( 9572:19752) INFO    [HCI_SYS][HciAuth::StopLog] ______ StopLog ______
+2016-11-9 22:23:49 java.exe( 7504: 2772) INFO    [HCI_SYS][HciAuth::Init] ______ StartLog Success ______
+2016-11-9 22:23:49 java.exe( 7504: 2772) INFO    [HCI_SYS][HciAuth::Init] ParseConfig Success
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][CUserInfo::Load]Enter
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Enter
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Enter
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Leave
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo] get udid from userinfo type:0 udid:54ee759e764d0000000000000000
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][hci_get_udid_by_type]Enter
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][get_win_mac_address]Enter
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][get_win_mac_address]Leave
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][hci_get_udid_by_type]Leave
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Leave
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][CUserInfo::Load]Leave
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Enter
+2016-11-9 22:23:49 java.exe( 7504: 2772) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE) failed and errno=2
+2016-11-9 22:23:49 java.exe( 7504: 2772) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCount] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE
+
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Leave
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Enter
+2016-11-9 22:23:49 java.exe( 7504: 2772) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH) failed and errno=2
+2016-11-9 22:23:49 java.exe( 7504: 2772) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCountBatch] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH
+
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Leave
+2016-11-9 22:23:49 java.exe( 7504: 2772) INFO    [HCI_SYS][HciAuth::Init] max_session_count:2
+2016-11-9 22:23:49 java.exe( 7504: 2772) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_APP_FILE) failed and errno=2
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19ab7578
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/USER_CUSTOM_HIS) failed and errno=2
+2016-11-9 22:23:50 java.exe( 7504:14724) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Leave
+2016-11-9 22:23:50 java.exe( 7504:14724) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Enter
+2016-11-9 22:23:50 java.exe( 7504:14724) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) INFO    [HCI_SYS][HciAuth::Init] SUCCESS
+2016-11-9 22:23:50 java.exe( 7504:14724) DEBUG   [HCI_SYS][CUserInfo::IsNeedRegister] FALSE
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [HCI_SYS][HciAuth::Init]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [HCI_SYS][hci_init]Leave
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Enter
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19cc1eb0
+2016-11-9 22:23:50 java.exe( 7504: 6988) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_TX_SETTING) failed and errno=2
+2016-11-9 22:23:50 java.exe( 7504: 6988) ERROR   [HCI_SYS][TxSetting::LoadFromFile] HCI_TX_SETTING IsValid false
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a270080
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::Post] http url:http://conf.open.tianxing.com:13000
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::Post] header:appKey:c85d54f1
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::Post] header:nonceStr:2016-11-9 22:23:50
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::Post] header:sessionKey:24a4f6e5bce6a6eee04125205cc07189
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x19b143d0
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x19b14470
+2016-11-9 22:23:50 java.exe( 7504:  900) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Enter
+2016-11-9 22:23:50 java.exe( 7504: 7400) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x1a26f5e0
+2016-11-9 22:23:50 java.exe( 7504: 7400) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x1a26f5e0
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) INFO    [HCI_SYS][HciAuth::GetAuthExpireTime] SUCCESS
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Leave
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x19b14470
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a270080
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x19b143d0
+2016-11-9 22:23:50 java.exe( 7504: 6988) WARNING [HCI_SYS][TxSetting::LoadFromString] get json(data) failed
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [HCI_SYS][TxSetting::LoadFromNet] response({"timestamp": 1478701430514, "cmdid": 5041, "apiVersion": "V1.0", "error": {"message": "\u672c\u5e94\u7528\u6ca1\u6709\u8fd9\u6761\u534f\u8bae\u7684\u6388\u6743", "code": 56}})
+2016-11-9 22:23:50 java.exe( 7504: 2772) WARNING [PlatformUtil] jtopus library not exist
+2016-11-9 22:23:50 java.exe( 7504: 2772) WARNING [PlatformUtil] jtspeex library not exist
+2016-11-9 22:23:50 java.exe( 7504: 2772) WARNING [PlatformUtil] hci_tts_cloud_synth library not exist
+2016-11-9 22:23:50 java.exe( 7504: 2772) WARNING [PlatformUtil] hci_tts_local_synth library not exist
+2016-11-9 22:23:50 java.exe( 7504: 2772) WARNING [PlatformUtil] hci_tts_local_n4_synth library not exist
+2016-11-9 22:23:50 java.exe( 7504: 2772) WARNING [PlatformUtil] hci_tts_local_n6_synth library not exist
+2016-11-9 22:23:50 java.exe( 7504: 2772) WARNING [PlatformUtil] hci_tts_local_n6-v5_synth library not exist
+2016-11-9 22:23:50 java.exe( 7504: 2772) WARNING [PlatformUtil] hci_tts_local_v6_synth library not exist
+2016-11-9 22:23:50 java.exe( 7504: 2772) WARNING [PlatformUtil] hci_tts_local_v6-v5_synth library not exist
+2016-11-9 22:23:50 java.exe( 7504: 2772) WARNING [PlatformUtil] hci_tts_local_synth_sing library not exist
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][hci_tts_init]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsSdk::Init]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [HCI_SYS][HCI_GetMaxSessionCount] max session count:2
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [jtcommon][IDllInterface::Load]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsDllInterface::Init]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][HciTtsInit]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][HciTtsInit]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsDllInterface::Init]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [jtcommon][IDllInterface::Load]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) INFO    [jtcommon][TtsSdk::Init] SUCCESS
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsSdk::Init]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][hci_tts_init]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][hci_tts_session_start]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsSession::Start]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][HciTtsStartSession]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession] jtTTS_GetExtBufSize(C:\Users\10048\IdeaProjects\HelloWorld\data\CNPackage.dat, C:\Users\10048\IdeaProjects\HelloWorld\data\ENPackage.dat, C:\Users\10048\IdeaProjects\HelloWorld\data\DMPackage.dat, 1991552).
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][HciTtsStartSession]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsSession::Start]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) INFO    [jtcommon][TtsSdk::StartSession] SUCCESS
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][hci_tts_session_start]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][hci_tts_synth]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsSdk::Synth]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsSession::Synth]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][HciTtsSynth]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::SynthesizeText]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamProgressProc] jtExam_ProgressProc iProcBegin(0)iProcLen(5)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(2080)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(0)!
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][TtsLocalEngine::SynthesizeText]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][HciTtsSynth]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsSession::Synth]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) INFO    [jtcommon][TtsSdk::Synth] SUCCESS
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsSdk::Synth]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][hci_tts_synth]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][hci_tts_session_stop]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsSession::Stop]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][HciTtsStopSession]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][HciTtsStopSession]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][TtsSession::Stop]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) INFO    [jtcommon][TtsSdk::StopSession] SUCCESS
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][hci_tts_session_stop]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][hci_tts_release]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [jtcommon][IDllInterface::UnLoad]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][HciTtsRelease]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts_local][HciTtsRelease]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [jtcommon][IDllInterface::UnLoad]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) INFO    [jtcommon][TtsSdk::Release] SUCCESS
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [hci_tts][hci_tts_release]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [HCI_SYS][hci_release]Enter
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [HCI_SYS][HciAuth::Release]Enter
+2016-11-9 22:23:50 java.exe( 7504:14724) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Leave
+2016-11-9 22:23:50 java.exe( 7504: 6988) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Leave
+2016-11-9 22:23:50 java.exe( 7504:  900) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc] UploadDataInterFace leave.
+2016-11-9 22:23:50 java.exe( 7504:  900) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Leave
+2016-11-9 22:23:50 java.exe( 7504: 2772) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x19ab7578
+2016-11-9 22:23:50 java.exe( 7504: 2772) INFO    [HCI_SYS][HciAuth::StopLog] ______ StopLog ______
+2016-11-9 22:26:9 java.exe( 7852:14540) INFO    [HCI_SYS][HciAuth::Init] ______ StartLog Success ______
+2016-11-9 22:26:9 java.exe( 7852:14540) INFO    [HCI_SYS][HciAuth::Init] ParseConfig Success
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][CUserInfo::Load]Enter
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Enter
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Enter
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Leave
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo] get udid from userinfo type:0 udid:54ee759e764d0000000000000000
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][hci_get_udid_by_type]Enter
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][get_win_mac_address]Enter
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][get_win_mac_address]Leave
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][hci_get_udid_by_type]Leave
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Leave
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][CUserInfo::Load]Leave
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Enter
+2016-11-9 22:26:9 java.exe( 7852:14540) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE) failed and errno=2
+2016-11-9 22:26:9 java.exe( 7852:14540) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCount] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE
+
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Leave
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Enter
+2016-11-9 22:26:9 java.exe( 7852:14540) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH) failed and errno=2
+2016-11-9 22:26:9 java.exe( 7852:14540) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCountBatch] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH
+
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Leave
+2016-11-9 22:26:9 java.exe( 7852:14540) INFO    [HCI_SYS][HciAuth::Init] max_session_count:2
+2016-11-9 22:26:9 java.exe( 7852:14540) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_APP_FILE) failed and errno=2
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19a07578
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/USER_CUSTOM_HIS) failed and errno=2
+2016-11-9 22:26:10 java.exe( 7852: 6524) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Leave
+2016-11-9 22:26:10 java.exe( 7852: 6524) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Enter
+2016-11-9 22:26:10 java.exe( 7852: 6524) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) INFO    [HCI_SYS][HciAuth::Init] SUCCESS
+2016-11-9 22:26:10 java.exe( 7852: 6524) DEBUG   [HCI_SYS][CUserInfo::IsNeedRegister] FALSE
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [HCI_SYS][HciAuth::Init]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [HCI_SYS][hci_init]Leave
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Enter
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19c11eb0
+2016-11-9 22:26:10 java.exe( 7852:11260) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_TX_SETTING) failed and errno=2
+2016-11-9 22:26:10 java.exe( 7852:11260) ERROR   [HCI_SYS][TxSetting::LoadFromFile] HCI_TX_SETTING IsValid false
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a0c0080
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::Post] http url:http://conf.open.tianxing.com:13000
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::Post] header:appKey:c85d54f1
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::Post] header:nonceStr:2016-11-9 22:26:10
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::Post] header:sessionKey:aeb461682c75519bdddaa7f831c4d3f0
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x198643d0
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x19864470
+2016-11-9 22:26:10 java.exe( 7852: 7464) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Enter
+2016-11-9 22:26:10 java.exe( 7852:16884) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x1a0bf610
+2016-11-9 22:26:10 java.exe( 7852:16884) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x1a0bf610
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) INFO    [HCI_SYS][HciAuth::GetAuthExpireTime] SUCCESS
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Leave
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x19864470
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a0c0080
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x198643d0
+2016-11-9 22:26:10 java.exe( 7852:11260) WARNING [HCI_SYS][TxSetting::LoadFromString] get json(data) failed
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [HCI_SYS][TxSetting::LoadFromNet] response({"timestamp": 1478701570508, "cmdid": 5041, "apiVersion": "V1.0", "error": {"message": "\u672c\u5e94\u7528\u6ca1\u6709\u8fd9\u6761\u534f\u8bae\u7684\u6388\u6743", "code": 56}})
+2016-11-9 22:26:10 java.exe( 7852:14540) WARNING [PlatformUtil] jtopus library not exist
+2016-11-9 22:26:10 java.exe( 7852:14540) WARNING [PlatformUtil] jtspeex library not exist
+2016-11-9 22:26:10 java.exe( 7852:14540) WARNING [PlatformUtil] hci_tts_cloud_synth library not exist
+2016-11-9 22:26:10 java.exe( 7852:14540) WARNING [PlatformUtil] hci_tts_local_synth library not exist
+2016-11-9 22:26:10 java.exe( 7852:14540) WARNING [PlatformUtil] hci_tts_local_n4_synth library not exist
+2016-11-9 22:26:10 java.exe( 7852:14540) WARNING [PlatformUtil] hci_tts_local_n6_synth library not exist
+2016-11-9 22:26:10 java.exe( 7852:14540) WARNING [PlatformUtil] hci_tts_local_n6-v5_synth library not exist
+2016-11-9 22:26:10 java.exe( 7852:14540) WARNING [PlatformUtil] hci_tts_local_v6_synth library not exist
+2016-11-9 22:26:10 java.exe( 7852:14540) WARNING [PlatformUtil] hci_tts_local_v6-v5_synth library not exist
+2016-11-9 22:26:10 java.exe( 7852:14540) WARNING [PlatformUtil] hci_tts_local_synth_sing library not exist
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][hci_tts_init]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsSdk::Init]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [HCI_SYS][HCI_GetMaxSessionCount] max session count:2
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [jtcommon][IDllInterface::Load]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsDllInterface::Init]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][HciTtsInit]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][HciTtsInit]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsDllInterface::Init]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [jtcommon][IDllInterface::Load]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) INFO    [jtcommon][TtsSdk::Init] SUCCESS
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsSdk::Init]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][hci_tts_init]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][hci_tts_session_start]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsSession::Start]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][HciTtsStartSession]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession] jtTTS_GetExtBufSize(C:\Users\10048\IdeaProjects\HelloWorld\data\CNPackage.dat, C:\Users\10048\IdeaProjects\HelloWorld\data\ENPackage.dat, C:\Users\10048\IdeaProjects\HelloWorld\data\DMPackage.dat, 1991552).
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][HciTtsStartSession]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsSession::Start]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) INFO    [jtcommon][TtsSdk::StartSession] SUCCESS
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][hci_tts_session_start]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][hci_tts_synth]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsSdk::Synth]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsSession::Synth]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][HciTtsSynth]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::SynthesizeText]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamProgressProc] jtExam_ProgressProc iProcBegin(0)iProcLen(12)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3680)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(640)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamProgressProc] jtExam_ProgressProc iProcBegin(12)iProcLen(6)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(2240)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(0)!
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][TtsLocalEngine::SynthesizeText]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][HciTtsSynth]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsSession::Synth]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) INFO    [jtcommon][TtsSdk::Synth] SUCCESS
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsSdk::Synth]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][hci_tts_synth]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][hci_tts_session_stop]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsSession::Stop]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][HciTtsStopSession]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][HciTtsStopSession]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][TtsSession::Stop]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) INFO    [jtcommon][TtsSdk::StopSession] SUCCESS
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][hci_tts_session_stop]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][hci_tts_release]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [jtcommon][IDllInterface::UnLoad]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][HciTtsRelease]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts_local][HciTtsRelease]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [jtcommon][IDllInterface::UnLoad]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) INFO    [jtcommon][TtsSdk::Release] SUCCESS
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [hci_tts][hci_tts_release]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [HCI_SYS][hci_release]Enter
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [HCI_SYS][HciAuth::Release]Enter
+2016-11-9 22:26:10 java.exe( 7852:11260) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Leave
+2016-11-9 22:26:10 java.exe( 7852: 6524) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Leave
+2016-11-9 22:26:10 java.exe( 7852: 7464) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc] UploadDataInterFace leave.
+2016-11-9 22:26:10 java.exe( 7852: 7464) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Leave
+2016-11-9 22:26:10 java.exe( 7852:14540) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x19a07578
+2016-11-9 22:26:10 java.exe( 7852:14540) INFO    [HCI_SYS][HciAuth::StopLog] ______ StopLog ______
+2016-11-9 22:40:32 java.exe(20128:  788) INFO    [HCI_SYS][HciAuth::Init] ______ StartLog Success ______
+2016-11-9 22:40:32 java.exe(20128:  788) INFO    [HCI_SYS][HciAuth::Init] ParseConfig Success
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][CUserInfo::Load]Enter
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Enter
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Enter
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Leave
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo] get udid from userinfo type:0 udid:54ee759e764d0000000000000000
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][hci_get_udid_by_type]Enter
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][get_win_mac_address]Enter
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][get_win_mac_address]Leave
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][hci_get_udid_by_type]Leave
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Leave
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][CUserInfo::Load]Leave
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Enter
+2016-11-9 22:40:32 java.exe(20128:  788) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE) failed and errno=2
+2016-11-9 22:40:32 java.exe(20128:  788) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCount] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE
+
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Leave
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Enter
+2016-11-9 22:40:32 java.exe(20128:  788) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH) failed and errno=2
+2016-11-9 22:40:32 java.exe(20128:  788) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCountBatch] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH
+
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Leave
+2016-11-9 22:40:32 java.exe(20128:  788) INFO    [HCI_SYS][HciAuth::Init] max_session_count:2
+2016-11-9 22:40:32 java.exe(20128:  788) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_APP_FILE) failed and errno=2
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19b37578
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/USER_CUSTOM_HIS) failed and errno=2
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Leave
+2016-11-9 22:40:33 java.exe(20128:10664) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) INFO    [HCI_SYS][HciAuth::Init] SUCCESS
+2016-11-9 22:40:33 java.exe(20128:10664) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Enter
+2016-11-9 22:40:33 java.exe(20128:20020) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Enter
+2016-11-9 22:40:33 java.exe(20128: 5252) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x1a13fb80
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [HCI_SYS][HciAuth::Init]Leave
+2016-11-9 22:40:33 java.exe(20128:10664) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Leave
+2016-11-9 22:40:33 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19b91eb0
+2016-11-9 22:40:33 java.exe(20128:10664) DEBUG   [HCI_SYS][CUserInfo::IsNeedRegister] FALSE
+2016-11-9 22:40:33 java.exe(20128: 5252) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x1a13fb80
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [HCI_SYS][hci_init]Leave
+2016-11-9 22:40:33 java.exe(20128:  880) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Enter
+2016-11-9 22:40:33 java.exe(20128:20020) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_TX_SETTING) failed and errno=2
+2016-11-9 22:40:33 java.exe(20128:20020) ERROR   [HCI_SYS][TxSetting::LoadFromFile] HCI_TX_SETTING IsValid false
+2016-11-9 22:40:33 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x1a040080
+2016-11-9 22:40:33 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::Post] http url:http://conf.open.tianxing.com:13000
+2016-11-9 22:40:33 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::Post] header:appKey:c85d54f1
+2016-11-9 22:40:33 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::Post] header:nonceStr:2016-11-9 22:40:33
+2016-11-9 22:40:33 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::Post] header:sessionKey:61c49ab105fb56e32fda051fce39174b
+2016-11-9 22:40:33 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x199d43d0
+2016-11-9 22:40:33 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x199d4470
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) INFO    [HCI_SYS][HciAuth::GetAuthExpireTime] SUCCESS
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) WARNING [PlatformUtil] jtopus library not exist
+2016-11-9 22:40:33 java.exe(20128:  788) WARNING [PlatformUtil] jtspeex library not exist
+2016-11-9 22:40:33 java.exe(20128:  788) WARNING [PlatformUtil] hci_tts_cloud_synth library not exist
+2016-11-9 22:40:33 java.exe(20128:  788) WARNING [PlatformUtil] hci_tts_local_synth library not exist
+2016-11-9 22:40:33 java.exe(20128:  788) WARNING [PlatformUtil] hci_tts_local_n4_synth library not exist
+2016-11-9 22:40:33 java.exe(20128:  788) WARNING [PlatformUtil] hci_tts_local_n6_synth library not exist
+2016-11-9 22:40:33 java.exe(20128:  788) WARNING [PlatformUtil] hci_tts_local_n6-v5_synth library not exist
+2016-11-9 22:40:33 java.exe(20128:  788) WARNING [PlatformUtil] hci_tts_local_v6_synth library not exist
+2016-11-9 22:40:33 java.exe(20128:  788) WARNING [PlatformUtil] hci_tts_local_v6-v5_synth library not exist
+2016-11-9 22:40:33 java.exe(20128:  788) WARNING [PlatformUtil] hci_tts_local_synth_sing library not exist
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][hci_tts_init]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsSdk::Init]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [HCI_SYS][HCI_GetMaxSessionCount] max session count:2
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [jtcommon][IDllInterface::Load]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsDllInterface::Init]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][HciTtsInit]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][HciTtsInit]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsDllInterface::Init]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [jtcommon][IDllInterface::Load]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) INFO    [jtcommon][TtsSdk::Init] SUCCESS
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsSdk::Init]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][hci_tts_init]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][hci_tts_session_start]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsSession::Start]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][HciTtsStartSession]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession] jtTTS_GetExtBufSize(C:\Users\10048\IdeaProjects\HelloWorld\data\CNPackage.dat, C:\Users\10048\IdeaProjects\HelloWorld\data\ENPackage.dat, C:\Users\10048\IdeaProjects\HelloWorld\data\DMPackage.dat, 1991552).
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][HciTtsStartSession]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsSession::Start]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) INFO    [jtcommon][TtsSdk::StartSession] SUCCESS
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][hci_tts_session_start]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][hci_tts_synth]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsSdk::Synth]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsSession::Synth]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][HciTtsSynth]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::SynthesizeText]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamProgressProc] jtExam_ProgressProc iProcBegin(0)iProcLen(12)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3680)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(640)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamProgressProc] jtExam_ProgressProc iProcBegin(12)iProcLen(6)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(2240)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(0)!
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][TtsLocalEngine::SynthesizeText]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][HciTtsSynth]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsSession::Synth]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) INFO    [jtcommon][TtsSdk::Synth] SUCCESS
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsSdk::Synth]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][hci_tts_synth]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][hci_tts_session_stop]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsSession::Stop]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][HciTtsStopSession]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts_local][HciTtsStopSession]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][TtsSession::Stop]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Enter
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Leave
+2016-11-9 22:40:33 java.exe(20128:  788) INFO    [jtcommon][TtsSdk::StopSession] SUCCESS
+2016-11-9 22:40:33 java.exe(20128:  788) DEBUG   [hci_tts][hci_tts_session_stop]Leave
+2016-11-9 22:40:34 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x199d4470
+2016-11-9 22:40:34 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x1a040080
+2016-11-9 22:40:34 java.exe(20128:20020) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x199d43d0
+2016-11-9 22:40:34 java.exe(20128:20020) WARNING [HCI_SYS][TxSetting::LoadFromString] get json(data) failed
+2016-11-9 22:40:34 java.exe(20128:20020) DEBUG   [HCI_SYS][TxSetting::LoadFromNet] response({"timestamp": 1478702433005, "cmdid": 5041, "apiVersion": "V1.0", "error": {"message": "\u672c\u5e94\u7528\u6ca1\u6709\u8fd9\u6761\u534f\u8bae\u7684\u6388\u6743", "code": 56}})
+2016-11-9 22:40:34 java.exe(20128:  788) DEBUG   [hci_tts][hci_tts_release]Enter
+2016-11-9 22:40:34 java.exe(20128:  788) DEBUG   [jtcommon][IDllInterface::UnLoad]Enter
+2016-11-9 22:40:34 java.exe(20128:  788) DEBUG   [hci_tts_local][HciTtsRelease]Enter
+2016-11-9 22:40:34 java.exe(20128:  788) DEBUG   [hci_tts_local][HciTtsRelease]Leave
+2016-11-9 22:40:34 java.exe(20128:  788) DEBUG   [jtcommon][IDllInterface::UnLoad]Leave
+2016-11-9 22:40:34 java.exe(20128:  788) INFO    [jtcommon][TtsSdk::Release] SUCCESS
+2016-11-9 22:40:34 java.exe(20128:  788) DEBUG   [hci_tts][hci_tts_release]Leave
+2016-11-9 22:40:34 java.exe(20128:  788) DEBUG   [HCI_SYS][hci_release]Enter
+2016-11-9 22:40:34 java.exe(20128:  788) DEBUG   [HCI_SYS][HciAuth::Release]Enter
+2016-11-9 22:40:34 java.exe(20128:20020) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Leave
+2016-11-9 22:40:34 java.exe(20128:10664) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Leave
+2016-11-9 22:40:34 java.exe(20128:  880) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc] UploadDataInterFace leave.
+2016-11-9 22:40:34 java.exe(20128:  880) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Leave
+2016-11-9 22:40:34 java.exe(20128:  788) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x19b37578
+2016-11-9 22:40:34 java.exe(20128:  788) INFO    [HCI_SYS][HciAuth::StopLog] ______ StopLog ______
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [HCI_SYS][HciAuth::Init] ______ StartLog Success ______
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [HCI_SYS][HciAuth::Init] ParseConfig Success
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][CUserInfo::Load]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][CUserInfo::SplitUdidString]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo] get udid from userinfo type:0 udid:54ee759e764d0000000000000000
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][hci_get_udid_by_type]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][get_win_mac_address]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][get_win_mac_address]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][hci_get_udid_by_type]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][CUserInfo::ReadUserInfo]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][CUserInfo::Load]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE) failed and errno=2
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCount] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE
+
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCount]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH) failed and errno=2
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [HCI_SYS][HciAuth::ReadMaxSessionCountBatch] failed to open file C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_LICENSE_BATCH
+
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][HciAuth::ReadMaxSessionCountBatch]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [HCI_SYS][HciAuth::Init] max_session_count:2
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][CBasicAuth::LoadFromFile]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_APP_FILE) failed and errno=2
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x196d7578
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/USER_CUSTOM_HIS) failed and errno=2
+2016-11-9 22:40:54 java.exe(17924: 6916) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][UploadDataInterFace::StartUpload]Leave
+2016-11-9 22:40:54 java.exe(17924: 6916) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Enter
+2016-11-9 22:40:54 java.exe(17924: 6916) DEBUG   [HCI_SYS][CBasicAuth::IsExpire]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [HCI_SYS][HciAuth::Init] SUCCESS
+2016-11-9 22:40:54 java.exe(17924: 6916) DEBUG   [HCI_SYS][CUserInfo::IsNeedRegister] FALSE
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][HciAuth::Init]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][hci_init]Leave
+2016-11-9 22:40:54 java.exe(17924: 9296) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Enter
+2016-11-9 22:40:54 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x198c1eb0
+2016-11-9 22:40:54 java.exe(17924: 9296) INFO    [jtcommon][FileReader::Load] open file (C:\Users\10048\IdeaProjects\HelloWorld\UserInfo/HCI_TX_SETTING) failed and errno=2
+2016-11-9 22:40:54 java.exe(17924: 9296) ERROR   [HCI_SYS][TxSetting::LoadFromFile] HCI_TX_SETTING IsValid false
+2016-11-9 22:40:54 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::CurlInit] curl easy init, handle = 0x19e70080
+2016-11-9 22:40:54 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::Post] http url:http://conf.open.tianxing.com:13000
+2016-11-9 22:40:54 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::Post] header:appKey:c85d54f1
+2016-11-9 22:40:54 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::Post] header:nonceStr:2016-11-9 22:40:54
+2016-11-9 22:40:54 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::Post] header:sessionKey:6c70bc0ee214218a706dbc615a72bac7
+2016-11-9 22:40:54 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::Post] curl slist init, list = 0x195a43d0
+2016-11-9 22:40:54 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi init, handle = 0x195a4470
+2016-11-9 22:40:54 java.exe(17924:18348) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Enter
+2016-11-9 22:40:54 java.exe(17924:16932) DEBUG   [jtcommon][CurlHttp::CurlHttp] CurlHttp ctor, addr = 0x19e6fb70
+2016-11-9 22:40:54 java.exe(17924:16932) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x19e6fb70
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [HCI_SYS][HciAuth::GetAuthExpireTime] SUCCESS
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][hci_get_auth_expire_time]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [PlatformUtil] jtopus library not exist
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [PlatformUtil] jtspeex library not exist
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [PlatformUtil] hci_tts_cloud_synth library not exist
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [PlatformUtil] hci_tts_local_synth library not exist
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [PlatformUtil] hci_tts_local_n4_synth library not exist
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [PlatformUtil] hci_tts_local_n6_synth library not exist
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [PlatformUtil] hci_tts_local_n6-v5_synth library not exist
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [PlatformUtil] hci_tts_local_v6_synth library not exist
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [PlatformUtil] hci_tts_local_v6-v5_synth library not exist
+2016-11-9 22:40:54 java.exe(17924: 8432) WARNING [PlatformUtil] hci_tts_local_synth_sing library not exist
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][hci_tts_init]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsSdk::Init]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [HCI_SYS][HCI_GetMaxSessionCount] max session count:2
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [jtcommon][IDllInterface::Load]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsDllInterface::Init]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][HciTtsInit]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][HciTtsInit]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsDllInterface::Init]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [jtcommon][IDllInterface::Load]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [jtcommon][TtsSdk::Init] SUCCESS
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsSdk::Init]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][hci_tts_init]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][hci_tts_session_start]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsSession::Start]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][HciTtsStartSession]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession] jtTTS_GetExtBufSize(C:\Users\10048\IdeaProjects\HelloWorld\data\CNPackage.dat, C:\Users\10048\IdeaProjects\HelloWorld\data\ENPackage.dat, C:\Users\10048\IdeaProjects\HelloWorld\data\DMPackage.dat, 1991552).
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::StartSession]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][HciTtsStartSession]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsSession::Start]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [jtcommon][TtsSdk::StartSession] SUCCESS
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][hci_tts_session_start]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][hci_tts_synth]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsSdk::Synth]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsSession::Synth]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][HciTtsSynth]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::SynthesizeText]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamProgressProc] jtExam_ProgressProc iProcBegin(0)iProcLen(12)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(1280)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamProgressProc] jtExam_ProgressProc iProcBegin(12)iProcLen(9)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(3840)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(800)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::JtExamOutputVoiceProc] jtExam_OutputVoiceProc iSize(0)!
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][TtsLocalEngine::SynthesizeText]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][HciTtsSynth]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsSession::Synth]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [jtcommon][TtsSdk::Synth] SUCCESS
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsSdk::Synth]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][hci_tts_synth]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][hci_tts_session_stop]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsSession::Stop]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][HciTtsStopSession]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts_local][HciTtsStopSession]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][TtsSession::Stop]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Enter
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [jtcommon][SessionInterface::~SessionInterface]Leave
+2016-11-9 22:40:54 java.exe(17924: 8432) INFO    [jtcommon][TtsSdk::StopSession] SUCCESS
+2016-11-9 22:40:54 java.exe(17924: 8432) DEBUG   [hci_tts][hci_tts_session_stop]Leave
+2016-11-9 22:40:55 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::CurlPerform] curl multi clean up, handle = 0x195a4470
+2016-11-9 22:40:55 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl easy clean up, handle = 0x19e70080
+2016-11-9 22:40:55 java.exe(17924: 9296) DEBUG   [jtcommon][CurlHttp::CurlCleanup_i] curl slist free all, list = 0x195a43d0
+2016-11-9 22:40:55 java.exe(17924: 9296) WARNING [HCI_SYS][TxSetting::LoadFromString] get json(data) failed
+2016-11-9 22:40:55 java.exe(17924: 9296) DEBUG   [HCI_SYS][TxSetting::LoadFromNet] response({"timestamp": 1478702454766, "cmdid": 5041, "apiVersion": "V1.0", "error": {"message": "\u672c\u5e94\u7528\u6ca1\u6709\u8fd9\u6761\u534f\u8bae\u7684\u6388\u6743", "code": 56}})
+2016-11-9 22:40:56 java.exe(17924: 8432) DEBUG   [hci_tts][hci_tts_release]Enter
+2016-11-9 22:40:56 java.exe(17924: 8432) DEBUG   [jtcommon][IDllInterface::UnLoad]Enter
+2016-11-9 22:40:56 java.exe(17924: 8432) DEBUG   [hci_tts_local][HciTtsRelease]Enter
+2016-11-9 22:40:56 java.exe(17924: 8432) DEBUG   [hci_tts_local][HciTtsRelease]Leave
+2016-11-9 22:40:56 java.exe(17924: 8432) DEBUG   [jtcommon][IDllInterface::UnLoad]Leave
+2016-11-9 22:40:56 java.exe(17924: 8432) INFO    [jtcommon][TtsSdk::Release] SUCCESS
+2016-11-9 22:40:56 java.exe(17924: 8432) DEBUG   [hci_tts][hci_tts_release]Leave
+2016-11-9 22:40:56 java.exe(17924: 8432) DEBUG   [HCI_SYS][hci_release]Enter
+2016-11-9 22:40:56 java.exe(17924: 8432) DEBUG   [HCI_SYS][HciAuth::Release]Enter
+2016-11-9 22:40:56 java.exe(17924: 6916) DEBUG   [HCI_SYS][HciAuth::CheckAuthThreadFunc]Leave
+2016-11-9 22:40:56 java.exe(17924: 9296) DEBUG   [HCI_SYS][HciAuth::TxSettingThreadFunc]Leave
+2016-11-9 22:40:56 java.exe(17924:18348) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc] UploadDataInterFace leave.
+2016-11-9 22:40:56 java.exe(17924:18348) DEBUG   [HCI_SYS][UploadDataInterFace::UploadThreadFunc]Leave
+2016-11-9 22:40:56 java.exe(17924: 8432) DEBUG   [jtcommon][CurlHttp::~CurlHttp] CurlHttp dtor, addr = 0x196d7578
+2016-11-9 22:40:56 java.exe(17924: 8432) INFO    [HCI_SYS][HciAuth::StopLog] ______ StopLog ______
